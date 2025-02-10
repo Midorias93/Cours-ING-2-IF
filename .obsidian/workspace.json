@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fa0719cc4d1566e4",
+        "id": "e14c86e08bb0ab58",
         "type": "tabs",
         "children": [
           {
-            "id": "74c54c49bcfbecfd",
+            "id": "271a0c68cfe71e36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "INFO8/First presentation.md",
-                "mode": "source",
-                "source": false
+                "file": "Big Data Analysis ( BDA )/TP/main.pdf"
               },
-              "icon": "lucide-file",
-              "title": "First presentation"
+              "icon": "lucide-file-text",
+              "title": "main"
             }
           }
         ]
@@ -40,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -144,8 +143,19 @@
               "icon": "lucide-list",
               "title": "Outline of First presentation"
             }
+          },
+          {
+            "id": "8fd378fcc528b5c6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -163,10 +173,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74c54c49bcfbecfd",
+  "active": "271a0c68cfe71e36",
   "lastOpenFiles": [
+    "Big Data Analysis ( BDA )/TP/arbres.csv",
+    "Big Data Analysis ( BDA )/CM/BDA-CM1.pdf",
+    "Big Data Analysis ( BDA )/CM/CM1 - notes.md",
+    "Big Data Analysis ( BDA )/TP/main.pdf",
+    "Big Data Analysis ( BDA )/TP",
+    "Big Data Analysis ( BDA )/CM",
+    "Big Data Analysis ( BDA )/main.pdf.crdownload",
+    "INFO8 scale deploy nosql/First presentation.md",
+    "Big Data Analysis ( BDA )/BDA-CM1.pdf.crdownload",
+    "Big Data Analysis ( BDA )",
     "Welcome.md",
-    "INFO8/First presentation.md",
-    "INFO8"
+    "INFO8 scale deploy nosql"
   ]
 }
