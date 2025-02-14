@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e14c86e08bb0ab58",
+        "id": "dca7f2b0789daa21",
         "type": "tabs",
         "children": [
           {
-            "id": "271a0c68cfe71e36",
+            "id": "1209c7f9bd767017",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "INFO8 scale deploy nosql/First presentation.md",
-                "mode": "source",
-                "source": false
+                "file": "Big Data Analysis ( BDA )/TP/main.pdf"
               },
-              "icon": "lucide-file",
-              "title": "First presentation"
-            }
-          },
-          {
-            "id": "e7f0e34ffbecd6ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INFO8 scale deploy nosql/Seconde presentation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Seconde presentation"
-            }
-          },
-          {
-            "id": "f25b329fea6c61c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "agenda.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "agenda"
-            }
-          },
-          {
-            "id": "9c6b57b9d9b7e01e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "utils.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "utils"
+              "icon": "lucide-file-text",
+              "title": "main"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,10 +38,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -208,21 +164,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f25b329fea6c61c8",
+  "active": "1209c7f9bd767017",
   "lastOpenFiles": [
-    "INFO8 scale deploy nosql/Seconde presentation.md",
-    "agenda.md",
+    "GRPO/CM1.md",
+    "GRPO",
     "utils.md",
     "INFO8 scale deploy nosql/First presentation.md",
+    "INFO8 scale deploy nosql/Seconde presentation.md",
+    "agenda.md",
     "Big Data Analysis ( BDA )/TP/main.pdf",
     "Big Data Analysis ( BDA )/TP/arbres.csv",
     "Big Data Analysis ( BDA )/CM/BDA-CM1.pdf",
