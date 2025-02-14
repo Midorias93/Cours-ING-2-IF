@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dca7f2b0789daa21",
+        "id": "5ddfaf11b3c04004",
         "type": "tabs",
         "children": [
           {
-            "id": "1209c7f9bd767017",
+            "id": "01c3743b3a543cb1",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -42,7 +42,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -164,33 +164,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1209c7f9bd767017",
+  "active": "a60e523046ca03b5",
   "lastOpenFiles": [
-    "GRPO/CM1.md",
-    "GRPO",
-    "utils.md",
-    "INFO8 scale deploy nosql/First presentation.md",
-    "INFO8 scale deploy nosql/Seconde presentation.md",
-    "agenda.md",
-    "Big Data Analysis ( BDA )/TP/main.pdf",
-    "Big Data Analysis ( BDA )/TP/arbres.csv",
-    "Big Data Analysis ( BDA )/CM/BDA-CM1.pdf",
-    "Big Data Analysis ( BDA )/CM/CM1 - notes.md",
-    "Big Data Analysis ( BDA )/TP",
-    "Big Data Analysis ( BDA )/CM",
-    "Big Data Analysis ( BDA )/main.pdf.crdownload",
-    "Big Data Analysis ( BDA )/BDA-CM1.pdf.crdownload",
-    "Big Data Analysis ( BDA )",
-    "Welcome.md",
-    "INFO8 scale deploy nosql"
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-2/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/package-info.java",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-2/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/FlowScannerOperation.java",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-2/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/FlowScanner.java",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-2/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/FlowRunCoprocessor.java",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-2/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/common/package-info.java",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-2/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/common/HBaseTimelineServerUtils.java",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/common/package-info.java",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/common/HBaseTimelineServerUtils.java",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/package-info.java",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/FlowScannerOperation.java",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/FlowScanner.java",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_cd0a0a_256x240.png",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_888888_256x240.png",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_454545_256x240.png",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_2e83ff_256x240.png",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_222222_256x240.png",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-bg_glass_95_fef1ec_1x400.png",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-bg_glass_75_e6e6e6_1x400.png",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-bg_glass_75_dadada_1x400.png",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-bg_glass_65_ffffff_1x400.png",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-api/src/main/resources/definition/YARN-Services-Examples.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-hdfs-project/hadoop-hdfs-native-client/src/main/native/libhdfspp/third_party/uriparser2/uriparser2/README.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/YarnServiceAPI.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/SystemServices.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/ServiceUpgrade.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/ServiceDiscovery.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/QuickStart.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/Overview.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/MasterWorker.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/Examples.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/Configurations.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/Concepts.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/troubleshooting_s3a.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/third_party_stores.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/testing.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/s3n.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/s3guard.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/s3_select.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/prefetching.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/performance.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/index.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/encryption.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/directory_markers.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/delegation_tokens.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/delegation_token_architecture.md"
   ]
 }
