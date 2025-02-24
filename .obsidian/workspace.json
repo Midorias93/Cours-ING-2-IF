@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01c3743b3a543cb1",
+            "id": "1e1cab0c450d425f",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -42,7 +42,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -164,17 +164,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a60e523046ca03b5",
+  "active": "1e1cab0c450d425f",
   "lastOpenFiles": [
+    "agenda.md",
+    "utils.md",
+    "fresque du numerique/Notes.md",
+    "Big Data Analysis ( BDA )/TP/main.pdf",
+    "fresque du numerique",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-2/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/package-info.java",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-2/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/FlowScannerOperation.java",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-2/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/FlowScanner.java",
@@ -183,9 +188,6 @@
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-2/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/common/HBaseTimelineServerUtils.java",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/common/package-info.java",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/common/HBaseTimelineServerUtils.java",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/package-info.java",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/FlowScannerOperation.java",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/src/main/java/org/apache/hadoop/yarn/server/timelineservice/storage/flow/FlowScanner.java",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_cd0a0a_256x240.png",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_888888_256x240.png",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_454545_256x240.png",
@@ -218,8 +220,6 @@
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/performance.md",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/index.md",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/encryption.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/directory_markers.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/delegation_tokens.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/delegation_token_architecture.md"
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/directory_markers.md"
   ]
 }
