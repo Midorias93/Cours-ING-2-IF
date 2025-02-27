@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ddfaf11b3c04004",
+        "id": "5da2199dadc8c0d5",
         "type": "tabs",
         "children": [
           {
-            "id": "97e5be00cccf0b44",
+            "id": "c42b297af0b54140",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "agenda"
             }
-          },
-          {
-            "id": "e384992dee41335a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big Data Analysis ( BDA )/TP/notes tp 1 big data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "notes tp 1 big data"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,8 +152,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Le module complémentaire n'est plus actif."
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -190,24 +175,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e384992dee41335a",
+  "active": "c42b297af0b54140",
   "lastOpenFiles": [
-    "Big Data Analysis ( BDA )/TP/main.pdf",
-    "Big Data Analysis ( BDA )/CM/BDA-CM1.pdf",
-    "Big Data Analysis ( BDA )/CM/CM1 - notes.md",
+    "Big Data Analysis ( BDA )/TP/3/tp3.pdf",
+    "Big Data Analysis ( BDA )/TP/3/small_Gutenberg.zip",
+    "Big Data Analysis ( BDA )/TP/2/livre/dracula",
+    "Big Data Analysis ( BDA )/TP/2/livre/LesMiserables_T5.txt",
+    "Big Data Analysis ( BDA )/TP/2/livre/LesMiserables_T4.txt",
+    "Big Data Analysis ( BDA )/TP/2/livre/LesMiserables_T3.txt",
+    "Big Data Analysis ( BDA )/TP/2/livre/LesMiserables_T2.txt",
+    "Big Data Analysis ( BDA )/TP/2/livre/LesMiserables_T1.txt",
+    "Big Data Analysis ( BDA )/TP/3/small_Gutenberg.txt",
+    "Big Data Analysis ( BDA )/TP/3/isd-history.txt",
+    "Big Data Analysis ( BDA )/TP/3/exo_1.py",
+    "Big Data Analysis ( BDA )/TP/3/Notes tp 3.md",
+    "Big Data Analysis ( BDA )/TP/1/Notes tp 1.md",
+    "Big Data Analysis ( BDA )/TP/2/brouillon.md",
+    "Big Data Analysis ( BDA )/TP/2/Note TP2.md",
+    "Big Data Analysis ( BDA )/CM/2/Notes CM2.md",
+    "Big Data Analysis ( BDA )/CM/1/CM1 - notes.md",
+    "Système de gestion de bases de données relationnelles/Notes CM1.md",
+    "Big Data Analysis ( BDA )/TP/1/notes tp 1 big data.md",
     "agenda.md",
-    "Big Data Analysis ( BDA )/TP/notes tp 1 big data.md",
-    "Big Data Analysis ( BDA )/TP/myenv/bin/hdfscli-avro",
-    "Big Data Analysis ( BDA )/TP/myenv/bin/hdfscli",
-    "Big Data Analysis ( BDA )/TP/myenv/lib/python3.13/site-packages/hdfs-2.7.3.dist-info/top_level.txt",
-    "Big Data Analysis ( BDA )/TP/myenv/lib/python3.13/site-packages/hdfs-2.7.3.dist-info/entry_points.txt",
-    "Big Data Analysis ( BDA )/TP/myenv/lib/python3.13/site-packages/hdfs-2.7.3.dist-info/WHEEL",
-    "Big Data Analysis ( BDA )/TP/myenv/lib/python3.13/site-packages/hdfs-2.7.3.dist-info/REQUESTED",
-    "Big Data Analysis ( BDA )/TP/myenv/lib/python3.13/site-packages/hdfs-2.7.3.dist-info/RECORD",
-    "Big Data Analysis ( BDA )/TP/myenv/lib/python3.13/site-packages/hdfs-2.7.3.dist-info/METADATA",
-    "Big Data Analysis ( BDA )/TP/myenv/lib/python3.13/site-packages/hdfs-2.7.3.dist-info/LICENSE",
-    "Big Data Analysis ( BDA )/TP/myenv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md",
+    "GRPO/CM1.md",
+    "INFO8 scale deploy nosql/Seconde presentation.md",
+    "INFO8 scale deploy nosql/First presentation.md",
     "utils.md",
+    "Système de gestion de bases de données relationnelles/TP/TP 1.md",
+    "Système de gestion de bases de données relationnelles/CM/Notes CM1.md",
+    "Big Data Analysis ( BDA )/TP/3/Brouillon.md",
+    "Big Data Analysis ( BDA )/TP/3/Brouillon compte rendu.md",
+    "Système de gestion de bases de données relationnelles/Notes math.md",
+    "Système de gestion de bases de données relationnelles/Drawing 2025-02-27 11.47.56.excalidraw.md",
+    "Sans titre.md",
+    "Excalidraw/Drawing 2025-02-25 12.33.05.excalidraw.md",
+    "Big Data Analysis ( BDA )/TP/1/myenv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md",
     "fresque du numerique/Notes.md",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_cd0a0a_256x240.png",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_888888_256x240.png",
@@ -220,23 +222,6 @@
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-bg_glass_75_dadada_1x400.png",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-bg_glass_65_ffffff_1x400.png",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-api/src/main/resources/definition/YARN-Services-Examples.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-hdfs-project/hadoop-hdfs-native-client/src/main/native/libhdfspp/third_party/uriparser2/uriparser2/README.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/YarnServiceAPI.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/SystemServices.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/ServiceUpgrade.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/ServiceDiscovery.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/QuickStart.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/Overview.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/MasterWorker.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/Examples.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/Configurations.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/Concepts.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/troubleshooting_s3a.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/third_party_stores.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/testing.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/s3n.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/s3guard.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/s3_select.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-tools/hadoop-aws/src/site/markdown/tools/hadoop-aws/prefetching.md"
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-hdfs-project/hadoop-hdfs-native-client/src/main/native/libhdfspp/third_party/uriparser2/uriparser2/README.md"
   ]
 }
