@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5da2199dadc8c0d5",
+        "id": "5b05528b42ab8069",
         "type": "tabs",
         "children": [
           {
-            "id": "c42b297af0b54140",
+            "id": "9edc4e75b1367c47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "agenda.md",
-                "mode": "source",
-                "source": false
+                "file": "Machine learning/MACH_1_ML_Landscape_26.pdf"
               },
-              "icon": "lucide-file",
-              "title": "agenda"
+              "icon": "lucide-file-text",
+              "title": "MACH_1_ML_Landscape_26"
             }
           }
         ]
@@ -172,11 +170,23 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c42b297af0b54140",
+  "active": "9edc4e75b1367c47",
   "lastOpenFiles": [
+    "Machine learning/images/classification/error_analysis_digits_plot.png",
+    "Machine learning/images/classification/confusion_matrix_plot_2.png",
+    "Machine learning/images/classification/confusion_matrix_plot_1.png",
+    "Machine learning/MACH_3_Classification_26.pdf",
+    "agenda.md",
+    "Machine learning/MACH_2_end_to_end_project_26.pdf",
+    "Machine learning/MACH_1_ML_Landscape_26.pdf",
+    "Machine learning/images/classification/pr_curve_comparison_plot.png",
+    "Machine learning/images/classification/roc_curve_plot.png",
+    "Machine learning/images/classification/precision_vs_recall_plot.png",
+    "Machine learning/images/classification/precision_recall_vs_threshold_plot.png",
     "Sans titre.md",
     "Machine learning/images/classification/more_digits_plot.png",
     "Machine learning/images/classification/some_digit_plot.png",
@@ -185,12 +195,8 @@
     "Machine learning/03_classification-wo-correction.ipynb",
     "Machine learning/03_classification-wo-correction.ipynb.json",
     "Machine learning",
-    "agenda.md",
     "Big Data Analysis ( BDA )/TP/3/tp3.pdf",
     "Big Data Analysis ( BDA )/TP/3/small_Gutenberg.zip",
-    "Big Data Analysis ( BDA )/TP/2/livre/dracula",
-    "Big Data Analysis ( BDA )/TP/2/livre/LesMiserables_T5.txt",
-    "Big Data Analysis ( BDA )/TP/2/livre/LesMiserables_T4.txt",
     "Big Data Analysis ( BDA )/TP/3/Notes tp 3.md",
     "Big Data Analysis ( BDA )/TP/1/Notes tp 1.md",
     "Big Data Analysis ( BDA )/TP/2/brouillon.md",
@@ -214,12 +220,6 @@
     "fresque du numerique/Notes.md",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_cd0a0a_256x240.png",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_888888_256x240.png",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_454545_256x240.png",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_2e83ff_256x240.png",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_222222_256x240.png",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-bg_glass_95_fef1ec_1x400.png",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-bg_glass_75_e6e6e6_1x400.png",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-api/src/main/resources/definition/YARN-Services-Examples.md",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-hdfs-project/hadoop-hdfs-native-client/src/main/native/libhdfspp/third_party/uriparser2/uriparser2/README.md"
   ]

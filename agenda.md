@@ -13,3 +13,8 @@
 - Faire le TP de Big data pour le 8 mars
 
 - Faire le de système de gestion pour le ?
+
+- rattraper les cours de Machine learning
+	- cours 1
+	- cours 2
+	- cours 3
