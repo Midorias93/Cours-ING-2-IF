@@ -1,7 +1,15 @@
-faire les choix des cours pour Budapest
-faire les tp de big data :
-	~~faire le tp1~~
-	faire le tp2
-regarde pour l’enquête de terrain de analyse et gestion des risques
-réparer mon vélo
-acheter un sèche cheveux
+- ==Faire les choix des cours pour Budapest==
+
+- Faire les tp de big data :
+	~~faire le tp 1~~
+	faire le tp 2
+
+- Regarde pour l’enquête de terrain de analyse et gestion des risques
+
+- Réparer mon vélo
+
+- Acheter un sèche cheveux
+
+- Faire le TP de Big data pour le 8 mars
+
+- Faire le de système de gestion pour le ?
