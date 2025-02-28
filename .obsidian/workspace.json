@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine learning/Note CM.md",
+                "file": "Data viz/Notes CM1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note CM"
+              "title": "Notes CM1"
+            }
+          },
+          {
+            "id": "cc34876276ada8ae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Data viz/DataViz-CM1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DataViz-CM1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,14 +189,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9edc4e75b1367c47",
+  "active": "cc34876276ada8ae",
   "lastOpenFiles": [
+    "Data viz/Notes CM1.md",
+    "Data viz/DataViz-CM1.pdf",
+    "Machine learning/MACH_3_Classification_26.pdf",
     "Machine learning/Note CM.md",
     "Data viz/ElectionsPresidentielleUS_data_clean.csv",
     "Data viz/covid-france.csv",
     "Data viz/TP1.pdf",
-    "Data viz/DataViz-CM1.pdf",
-    "Machine learning/MACH_3_Classification_26.pdf",
     "Machine learning/MACH_1_ML_Landscape_26.pdf",
     "Machine learning/TP_note/datasets/spam/spam/cmds",
     "Machine learning/TP_note/datasets/spam/spam/00500.85b72f09f6778a085dc8b6821965a76f",
@@ -221,7 +235,6 @@
     "Système de gestion de bases de données relationnelles/Drawing 2025-02-27 11.47.56.excalidraw.md",
     "Excalidraw/Drawing 2025-02-25 12.33.05.excalidraw.md",
     "Big Data Analysis ( BDA )/TP/1/myenv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md",
-    "fresque du numerique/Notes.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-api/src/main/resources/definition/YARN-Services-Examples.md"
+    "fresque du numerique/Notes.md"
   ]
 }
