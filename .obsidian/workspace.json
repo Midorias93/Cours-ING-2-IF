@@ -11,12 +11,14 @@
             "id": "9edc4e75b1367c47",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Machine learning/MACH_1_ML_Landscape_26.pdf"
+                "file": "Machine learning/Note CM.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "MACH_1_ML_Landscape_26"
+              "icon": "lucide-file",
+              "title": "Note CM"
             }
           }
         ]
@@ -59,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Rechercher"
             }
           },
           {
@@ -176,27 +178,29 @@
   },
   "active": "9edc4e75b1367c47",
   "lastOpenFiles": [
-    "Machine learning/images/classification/error_analysis_digits_plot.png",
-    "Machine learning/images/classification/confusion_matrix_plot_2.png",
-    "Machine learning/images/classification/confusion_matrix_plot_1.png",
+    "Machine learning/Note CM.md",
+    "Data viz/ElectionsPresidentielleUS_data_clean.csv",
+    "Data viz/covid-france.csv",
+    "Data viz/TP1.pdf",
+    "Data viz/DataViz-CM1.pdf",
     "Machine learning/MACH_3_Classification_26.pdf",
-    "agenda.md",
-    "Machine learning/MACH_2_end_to_end_project_26.pdf",
     "Machine learning/MACH_1_ML_Landscape_26.pdf",
-    "Machine learning/images/classification/pr_curve_comparison_plot.png",
-    "Machine learning/images/classification/roc_curve_plot.png",
-    "Machine learning/images/classification/precision_vs_recall_plot.png",
-    "Machine learning/images/classification/precision_recall_vs_threshold_plot.png",
+    "Machine learning/TP_note/datasets/spam/spam/cmds",
+    "Machine learning/TP_note/datasets/spam/spam/00500.85b72f09f6778a085dc8b6821965a76f",
+    "Machine learning/TP_note/datasets/spam/spam/00499.988506a852cf86b396771a8bdc8cf839",
+    "Machine learning/TP_note/datasets/spam/spam/00498.48c3098854d339353f1a28a13b196017",
+    "Machine learning/TP3/images/classification/some_digit_plot.png",
+    "Machine learning/TP3/images/classification/roc_curve_plot.png",
+    "Machine learning/TP3/images/classification/precision_vs_recall_plot.png",
+    "Machine learning/TP3/images/classification/precision_recall_vs_threshold_plot.png",
+    "Machine learning/TP3/images/classification/pr_curve_comparison_plot.png",
+    "Machine learning/TP3/images/classification/more_digits_plot.png",
+    "Machine learning/TP3/images/classification/error_analysis_digits_plot.png",
+    "Machine learning/TP3/images/classification/confusion_matrix_plot_2.png",
+    "Machine learning/TP3/images/classification/confusion_matrix_plot_1.png",
+    "Machine learning/images/classification/error_analysis_digits_plot.png",
+    "agenda.md",
     "Sans titre.md",
-    "Machine learning/images/classification/more_digits_plot.png",
-    "Machine learning/images/classification/some_digit_plot.png",
-    "Machine learning/images/classification",
-    "Machine learning/images",
-    "Machine learning/03_classification-wo-correction.ipynb",
-    "Machine learning/03_classification-wo-correction.ipynb.json",
-    "Machine learning",
-    "Big Data Analysis ( BDA )/TP/3/tp3.pdf",
-    "Big Data Analysis ( BDA )/TP/3/small_Gutenberg.zip",
     "Big Data Analysis ( BDA )/TP/3/Notes tp 3.md",
     "Big Data Analysis ( BDA )/TP/1/Notes tp 1.md",
     "Big Data Analysis ( BDA )/TP/2/brouillon.md",
@@ -218,9 +222,6 @@
     "Excalidraw/Drawing 2025-02-25 12.33.05.excalidraw.md",
     "Big Data Analysis ( BDA )/TP/1/myenv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md",
     "fresque du numerique/Notes.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_cd0a0a_256x240.png",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_888888_256x240.png",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-api/src/main/resources/definition/YARN-Services-Examples.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-hdfs-project/hadoop-hdfs-native-client/src/main/native/libhdfspp/third_party/uriparser2/uriparser2/README.md"
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-api/src/main/resources/definition/YARN-Services-Examples.md"
   ]
 }
