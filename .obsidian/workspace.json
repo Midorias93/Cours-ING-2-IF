@@ -4,45 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "cbd53278c4ef108e",
+        "id": "4803a6eba77697b0",
         "type": "tabs",
         "children": [
           {
-            "id": "79ee658c06f59f89",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Data viz/CM/DataViz-CM1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DataViz-CM1"
-            }
-          },
-          {
-            "id": "2229b60841d4b714",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Data viz/TP/main.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "main"
-            }
-          },
-          {
-            "id": "640b7c6f3e23da81",
+            "id": "cf6c1ced6c2340c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agenda.md",
+                "file": "Machine learning/Note CM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agenda"
+              "title": "Note CM"
+            }
+          },
+          {
+            "id": "a5f5dd48c94e0375",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Machine learning/MACH_4_training_models_25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "MACH_4_training_models_25"
             }
           }
         ],
@@ -69,7 +57,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -86,7 +74,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Rechercher"
+              "title": "Search"
             }
           },
           {
@@ -191,62 +179,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2229b60841d4b714",
+  "active": "a5f5dd48c94e0375",
   "lastOpenFiles": [
-    "Data viz/CM/DataViz-CM1.pdf",
-    "agenda.md",
-    "Data viz/TP/main.pdf",
-    "Machine learning/altair-cheatsheet.pdf",
-    "Data viz/CM/DataViz-CM2.pdf",
-    "Machine learning/MACH_3_Classification_26.pdf",
-    "Data viz/TP/tp.ipynb",
-    "Data viz/TP/TP1.pdf",
-    "Data viz/CM/Notes CM1.md",
-    "Data viz/CM/Notes CM2.md",
-    "Data viz/TP",
-    "Data viz/CM",
+    "Machine learning/TP4/04_training_models_TODO.ipynb",
+    "Machine learning/TP4/04_training_models_TODO.ipynb.txt",
+    "Machine learning/TP4",
+    "Machine learning/New folder",
     "Machine learning/Note CM.md",
-    "Data viz/ElectionsPresidentielleUS_data_clean.csv",
+    "Machine learning/MACH_4_training_models_25.pdf",
+    "Choix des cours pour S9.md",
+    "Machine learning/MACH_4_training_models_25.pdf.crdownload",
+    "Devenir créatif et innovant/Notes CM1.md",
+    "Devenir créatif et innovant",
+    "agenda.md",
+    "Système de gestion de bases de données relationnelles/P1_SGBDR_v2025.pdf",
+    "Système de gestion de bases de données relationnelles/Exercices SGBDR_v2024.pdf",
+    "Système de gestion de bases de données relationnelles",
+    "Machine learning/TP_note/datasets/spam/spam/cmds",
     "Machine learning/TP3/images/classification/some_digit_plot.png",
     "Machine learning/TP3/images/classification/roc_curve_plot.png",
-    "Machine learning/TP3/images/classification/precision_vs_recall_plot.png",
-    "Machine learning/TP3/images/classification/precision_recall_vs_threshold_plot.png",
     "Machine learning/TP3/images/classification/pr_curve_comparison_plot.png",
+    "Machine learning/TP3/images/classification/precision_vs_recall_plot.png",
     "Machine learning/TP3/images/classification/more_digits_plot.png",
+    "Machine learning/TP3/images/classification/precision_recall_vs_threshold_plot.png",
     "Machine learning/TP3/images/classification/error_analysis_digits_plot.png",
     "Machine learning/TP3/images/classification/confusion_matrix_plot_2.png",
     "Machine learning/TP3/images/classification/confusion_matrix_plot_1.png",
-    "Machine learning/images/classification/error_analysis_digits_plot.png",
-    "Sans titre.md",
+    "Data viz/CM/Notes CM2.md",
+    "Data viz/CM/Notes CM1.md",
     "Big Data Analysis ( BDA )/TP/3/Notes tp 3.md",
-    "Big Data Analysis ( BDA )/TP/1/Notes tp 1.md",
-    "Big Data Analysis ( BDA )/TP/2/brouillon.md",
     "Big Data Analysis ( BDA )/TP/2/Note TP2.md",
+    "Big Data Analysis ( BDA )/TP/2/brouillon.md",
+    "Big Data Analysis ( BDA )/TP/1/Notes tp 1.md",
     "Big Data Analysis ( BDA )/CM/2/Notes CM2.md",
     "Big Data Analysis ( BDA )/CM/1/CM1 - notes.md",
-    "Système de gestion de bases de données relationnelles/Notes CM1.md",
-    "Big Data Analysis ( BDA )/TP/1/notes tp 1 big data.md",
-    "GRPO/CM1.md",
-    "INFO8 scale deploy nosql/Seconde presentation.md",
-    "INFO8 scale deploy nosql/First presentation.md",
+    "Big Data Analysis ( BDA )/TP/notes tp 1 big data.md",
+    "Big Data Analysis ( BDA )/CM/CM1 - notes.md",
+    "Big Data Analysis ( BDA )/TP/myenv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md",
     "utils.md",
-    "Système de gestion de bases de données relationnelles/TP/TP 1.md",
-    "Système de gestion de bases de données relationnelles/CM/Notes CM1.md",
-    "Big Data Analysis ( BDA )/TP/3/Brouillon.md",
-    "Big Data Analysis ( BDA )/TP/3/Brouillon compte rendu.md",
-    "Système de gestion de bases de données relationnelles/Notes math.md",
-    "Système de gestion de bases de données relationnelles/Drawing 2025-02-27 11.47.56.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-25 12.33.05.excalidraw.md",
-    "Big Data Analysis ( BDA )/TP/1/myenv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md"
+    "fresque du numerique/Notes.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/resources/webapps/static/jquery/themes-1.9.1/base/images/ui-icons_cd0a0a_256x240.png",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-api/src/main/resources/definition/YARN-Services-Examples.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-hdfs-project/hadoop-hdfs-native-client/src/main/native/libhdfspp/third_party/uriparser2/uriparser2/README.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/YarnServiceAPI.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/SystemServices.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/ServiceUpgrade.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/ServiceDiscovery.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/QuickStart.md",
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/Overview.md"
   ]
 }
