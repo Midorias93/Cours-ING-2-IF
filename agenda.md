@@ -18,3 +18,9 @@
 	- cours 1
 	- cours 2
 	- cours 3
+
+- ~~Rattraper le cours de dataviz~~
+
+- Finir le TP de machine learning 3 mars
+
+- Faire le choix des groupes pour INFO8

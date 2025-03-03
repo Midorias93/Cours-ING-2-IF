@@ -4,33 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "5b05528b42ab8069",
+        "id": "cbd53278c4ef108e",
         "type": "tabs",
         "children": [
           {
-            "id": "9edc4e75b1367c47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data viz/Notes CM1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notes CM1"
-            }
-          },
-          {
-            "id": "cc34876276ada8ae",
+            "id": "79ee658c06f59f89",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Data viz/DataViz-CM1.pdf"
+                "file": "Data viz/CM/DataViz-CM1.pdf"
               },
               "icon": "lucide-file-text",
               "title": "DataViz-CM1"
+            }
+          },
+          {
+            "id": "2229b60841d4b714",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Data viz/TP/main.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "main"
+            }
+          },
+          {
+            "id": "640b7c6f3e23da81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "agenda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "agenda"
             }
           }
         ],
@@ -189,20 +201,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cc34876276ada8ae",
+  "active": "2229b60841d4b714",
   "lastOpenFiles": [
-    "Data viz/Notes CM1.md",
-    "Data viz/DataViz-CM1.pdf",
+    "Data viz/CM/DataViz-CM1.pdf",
+    "agenda.md",
+    "Data viz/TP/main.pdf",
+    "Machine learning/altair-cheatsheet.pdf",
+    "Data viz/CM/DataViz-CM2.pdf",
     "Machine learning/MACH_3_Classification_26.pdf",
+    "Data viz/TP/tp.ipynb",
+    "Data viz/TP/TP1.pdf",
+    "Data viz/CM/Notes CM1.md",
+    "Data viz/CM/Notes CM2.md",
+    "Data viz/TP",
+    "Data viz/CM",
     "Machine learning/Note CM.md",
     "Data viz/ElectionsPresidentielleUS_data_clean.csv",
-    "Data viz/covid-france.csv",
-    "Data viz/TP1.pdf",
-    "Machine learning/MACH_1_ML_Landscape_26.pdf",
-    "Machine learning/TP_note/datasets/spam/spam/cmds",
-    "Machine learning/TP_note/datasets/spam/spam/00500.85b72f09f6778a085dc8b6821965a76f",
-    "Machine learning/TP_note/datasets/spam/spam/00499.988506a852cf86b396771a8bdc8cf839",
-    "Machine learning/TP_note/datasets/spam/spam/00498.48c3098854d339353f1a28a13b196017",
     "Machine learning/TP3/images/classification/some_digit_plot.png",
     "Machine learning/TP3/images/classification/roc_curve_plot.png",
     "Machine learning/TP3/images/classification/precision_vs_recall_plot.png",
@@ -213,7 +227,6 @@
     "Machine learning/TP3/images/classification/confusion_matrix_plot_2.png",
     "Machine learning/TP3/images/classification/confusion_matrix_plot_1.png",
     "Machine learning/images/classification/error_analysis_digits_plot.png",
-    "agenda.md",
     "Sans titre.md",
     "Big Data Analysis ( BDA )/TP/3/Notes tp 3.md",
     "Big Data Analysis ( BDA )/TP/1/Notes tp 1.md",
@@ -234,7 +247,6 @@
     "Système de gestion de bases de données relationnelles/Notes math.md",
     "Système de gestion de bases de données relationnelles/Drawing 2025-02-27 11.47.56.excalidraw.md",
     "Excalidraw/Drawing 2025-02-25 12.33.05.excalidraw.md",
-    "Big Data Analysis ( BDA )/TP/1/myenv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md",
-    "fresque du numerique/Notes.md"
+    "Big Data Analysis ( BDA )/TP/1/myenv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md"
   ]
 }
