@@ -31,6 +31,8 @@ docker run -itd -p 8040:8042 --net=hadoop --name hadoop-worker1 --hostname hadoo
 docker run -itd -p 8041:8042 --net=hadoop --name hadoop-worker2 --hostname hadoop-worker2 liliasfaxi/hadoop-cluster:latest
 ```
 
+# need to docker start the container before this commande
+
 ```
 docker exec -it hadoop-master bash
 ```
