@@ -13,13 +13,28 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Data viz/TP/main.pdf"
+                "file": "Big Data Analysis ( BDA )/CM/4/CM4.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "main"
+              "title": "CM4"
+            }
+          },
+          {
+            "id": "bc16ad3c381ab092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes CM4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes CM4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -42,7 +57,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorateur de fichiers"
+              "title": "Files"
             }
           },
           {
@@ -164,31 +179,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5f5dd48c94e0375",
+  "active": "bc16ad3c381ab092",
   "lastOpenFiles": [
+    "Big Data Analysis ( BDA )/CM/4/CM4.pdf",
+    "Notes CM4.md",
     "Data viz/TP/main.pdf",
+    "Big Data Analysis ( BDA )/TP/4/tp4.pdf",
+    "Big Data Analysis ( BDA )/TP/4/tp4.pdf.crdownload",
+    "Big Data Analysis ( BDA )/TP/4",
+    "Big Data Analysis ( BDA )/TP/New folder",
+    "Big Data Analysis ( BDA )/CM/4/CM4.pdf.crdownload",
+    "Big Data Analysis ( BDA )/CM/4",
+    "Big Data Analysis ( BDA )/CM/New folder",
     "Big Data Analysis ( BDA )/TP/3/Notes tp 3.md",
     "Data viz/altair-cheatsheet.pdf",
-    "Data viz/TP/TP1.pdf",
-    "Machine learning/MACH_4_training_models_25.pdf",
-    "Machine learning/MACH_5_SVM.pdf",
     "Machine learning/Note CM.md",
     "Sans titre.md",
-    "Proba et stat",
-    "Machine learning/TP4/04_training_models_TODO.ipynb",
-    "Machine learning/TP4/04_training_models_TODO.ipynb.txt",
-    "Machine learning/TP4",
-    "Machine learning/New folder",
     "Choix des cours pour S9.md",
     "Devenir créatif et innovant/Notes CM1.md",
     "agenda.md",
@@ -219,7 +235,6 @@
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/YarnServiceAPI.md",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/SystemServices.md",
     "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/ServiceUpgrade.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/ServiceDiscovery.md",
-    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/QuickStart.md"
+    "Big Data Analysis ( BDA )/TP/hadoop-3.4.1-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/src/site/markdown/yarn-service/ServiceDiscovery.md"
   ]
 }
