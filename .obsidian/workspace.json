@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Machine learning/MACH_4_training_models_25.pdf"
+                "file": "Data viz/TP/main.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "MACH_4_training_models_25"
+              "title": "main"
             }
           }
         ]
@@ -176,8 +176,12 @@
   },
   "active": "a5f5dd48c94e0375",
   "lastOpenFiles": [
-    "Machine learning/MACH_5_SVM.pdf",
+    "Data viz/TP/main.pdf",
+    "Big Data Analysis ( BDA )/TP/3/Notes tp 3.md",
+    "Data viz/altair-cheatsheet.pdf",
+    "Data viz/TP/TP1.pdf",
     "Machine learning/MACH_4_training_models_25.pdf",
+    "Machine learning/MACH_5_SVM.pdf",
     "Machine learning/Note CM.md",
     "Sans titre.md",
     "Proba et stat",
@@ -186,11 +190,8 @@
     "Machine learning/TP4",
     "Machine learning/New folder",
     "Choix des cours pour S9.md",
-    "Machine learning/MACH_4_training_models_25.pdf.crdownload",
     "Devenir créatif et innovant/Notes CM1.md",
-    "Devenir créatif et innovant",
     "agenda.md",
-    "Système de gestion de bases de données relationnelles/P1_SGBDR_v2025.pdf",
     "Machine learning/TP3/images/classification/some_digit_plot.png",
     "Machine learning/TP3/images/classification/roc_curve_plot.png",
     "Machine learning/TP3/images/classification/pr_curve_comparison_plot.png",
@@ -202,7 +203,6 @@
     "Machine learning/TP3/images/classification/confusion_matrix_plot_1.png",
     "Data viz/CM/Notes CM2.md",
     "Data viz/CM/Notes CM1.md",
-    "Big Data Analysis ( BDA )/TP/3/Notes tp 3.md",
     "Big Data Analysis ( BDA )/TP/2/Note TP2.md",
     "Big Data Analysis ( BDA )/TP/2/brouillon.md",
     "Big Data Analysis ( BDA )/TP/1/Notes tp 1.md",
